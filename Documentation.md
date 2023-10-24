@@ -28,5 +28,4 @@ A crucial aspect of the AdventureWorks database is the relationships between tab
 
 3. **Self-Referencing:** Learn about self-referencing relationships where a table relates to itself, which is useful for representing hierarchical data, such as Employee Supervisors.
 
-**Refer to the detailed documentation within this repository to gain a deep understanding of the AdventureWorks database's schema and table relationships.**
 
