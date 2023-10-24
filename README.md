@@ -1,7 +1,7 @@
 # AdventureWorks-SQL-database
----
 
 Welcome to the AdventureWorks Sample Database repository! 
+---
 
 **AdventureWorks** is a widely-used sample database from Microsoft that represents a fictional bicycle manufacturer. It serves as an excellent resource for learning and practicing database management and SQL querying. This database is an invaluable tool for developers, database administrators, and data enthusiasts who want to explore, analyze, and develop applications with a real-world database schema.
 
